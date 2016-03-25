@@ -1,6 +1,1 @@
 hello
-<<<<<<< HEAD
-GOOD MORNING
-=======
-JUNK
->>>>>>> parent of 22df5ea... ADD HELLO
